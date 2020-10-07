@@ -1,29 +1,23 @@
 /* li{ text-decoration: none; color: white;} */
 
 .RectangleItems {
-/*     
+    
     
     height: 116px;
     background-color: #7ed321;
     
- */
+
 
 
   }
 .logoitem {
-    /* padding-top: 15px ;
-    padding-left: 15px;
   
     width: 147px;
     height: 56px;
-    object-fit: contain; */
+    object-fit: contain; 
   }
   .Items{
-    /* 
-   
-    margin-left: 1000px ;
 
-    margin-right: 50px; */
     max-width: 355px;
     display: flex;
     justify-content: space-between;
@@ -31,12 +25,12 @@
     
   }
   .filter {
-    /* width: 26px;
+    width: 26px;
     height: 26px;
-    object-fit: contain; */
+    object-fit: contain;
   }
   .JOGS {
-    /* width: 40px;
+    width: 40px;
     height: 16px;
     font-family: SFUIText;
     font-size: 14px;
@@ -47,7 +41,7 @@
     letter-spacing: normal;
     text-align: center;
   
- */
+
    text-decoration: none;
    
    color: white;
