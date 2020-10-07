@@ -1,0 +1,104 @@
+/* li{ text-decoration: none; color: white;} */
+
+.RectangleItems {
+/*     
+    
+    height: 116px;
+    background-color: #7ed321;
+    
+ */
+
+
+  }
+.logoitem {
+    /* padding-top: 15px ;
+    padding-left: 15px;
+  
+    width: 147px;
+    height: 56px;
+    object-fit: contain; */
+  }
+  .Items{
+    /* 
+   
+    margin-left: 1000px ;
+
+    margin-right: 50px; */
+    max-width: 355px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none ;
+    
+  }
+  .filter {
+    /* width: 26px;
+    height: 26px;
+    object-fit: contain; */
+  }
+  .JOGS {
+    /* width: 40px;
+    height: 16px;
+    font-family: SFUIText;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+  
+ */
+   text-decoration: none;
+   
+   color: white;
+   
+  }
+
+  .INFO1{
+   
+        /* width: 35px;
+        height: 16px;
+        font-family: SFUIText;
+        font-size: 14px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color:white;
+       
+    */
+    text-decoration: none;
+    padding-left: 40px;
+   color: white;
+   
+   
+
+
+
+
+    }
+        .CONTACT-US {
+    /* width: 96px;
+    height: 16px;
+    font-family: SFUIText;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color:white;
+    
+     */
+     text-decoration: none;
+   padding-left: 40px;
+   color: white;
+   padding-right: 40px;
+   
+  }
+
+  li:hover { text-decoration:  underline; } 
+

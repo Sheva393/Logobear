@@ -1,0 +1,47 @@
+*{padding: 0; margin: 0;}
+
+
+
+
+.icon1 {
+    width: 87px;
+    height: 87px;
+    object-fit: contain;
+
+  
+    
+  }
+
+.jogs{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+
+
+}
+
+
+.textjog{
+  display: flex;
+  width: 200px;
+  
+  flex-direction: column;
+}
+
+.textjog > p{
+  margin-bottom: 10px;
+}
+
+.jogsitem{
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  
+  min-height: 200px;
+  margin:70px 0 ;
+  
+}
+.plusbutton{
+  position: relative;
+ 
+}

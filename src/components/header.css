@@ -1,0 +1,15 @@
+.Rectangle {
+    display: flex;
+    
+    justify-content: space-between;
+    background-color: #7ed321;
+   padding: 30px 30px;
+  align-items: center;
+
+  }
+.logo {
+ 
+    width: 147px;
+    height: 56px;
+
+  }

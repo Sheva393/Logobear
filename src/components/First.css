@@ -1,0 +1,93 @@
+*{padding: 0; margin: 0;}
+
+
+.First {
+    width: 503px;
+    height: 379px;
+    border-radius: 44px;
+    background-color: #7ed321;
+    margin:0 auto;
+    margin-top: 118px; 
+    position: relative;
+    
+  }
+  .cancel {
+    width: 27px;
+    height: 27px; 
+    position: absolute;
+    top: 24px;
+    right: 27px;
+    border: none;
+    background-color: transparent;
+ 
+  }
+  .input{
+     
+    width: 236px;
+    height: 31px;
+    border-radius: 7px;
+    border: solid 1px #979797;
+    background-color: #ffffff; 
+    margin-left: 150px;
+    justify-content: center;
+    display: inline-block;
+    margin-bottom: 15px;
+
+
+  }
+  .saveb{
+    width: 320px;
+    height: 42px;
+    border-radius: 25.2px;
+    border: solid 2px #ffffff;
+    background-color: #7ed321;
+    margin: 0 auto;
+    justify-content: center;
+    margin-top: 46px;
+    margin-left:91px;
+  }
+  .save{
+    width: 71.1px;
+    height: 15px;
+    font-family: SFUIText;
+    font-size: 12.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: white;
+  }
+
+ .form{
+  width: 503px;
+   padding-top: 100px;
+ }
+ .label{
+  margin-bottom: 33px;
+  width: 73px;
+
+  display: block; 
+   display: inline-block; 
+ } 
+
+.qwerty{
+  display: flex;
+  flex-direction: column;
+  width: 30px;
+  margin-left: 30px;
+  
+ }
+ .qwerty1{
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+ }
+ .qwerty2{
+   display: flex;
+   flex-direction: row;
+  
+ }

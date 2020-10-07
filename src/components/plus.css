@@ -1,0 +1,12 @@
+.add {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+     ;}
+  .plus1{
+    position: absolute;
+    right: -500px;
+    bottom: 15px;
+   
+    
+  }

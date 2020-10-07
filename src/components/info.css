@@ -1,0 +1,48 @@
+.INFO {
+    
+    width: 89px;
+    height: 43px;
+    font-family: SFUIText;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color:#7ed321;
+    position: relative;
+    right:  265px;
+    margin-bottom: 15px;
+    }
+  .Lorem-Ipsum-is-simpl {
+    width: 614px;
+    height: 191px;
+    font-family: SFUIText;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    margin-bottom: 30px;
+  }
+  .It-is-a-long-establi {
+    width: 614px;
+    height: 191px;
+    font-family: SFUIText;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+  }
+.MainInfo{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 201px;
+  
+}
